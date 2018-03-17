@@ -5,7 +5,7 @@
 </p>
 
 
-Intellij Idea Run Configuration
+Intellij Idea Run Configuration:
 <p align="center">
-  <img width="460" height="300" src="https://photos.app.goo.gl/7I6hycmwd8bC8XwN2">
+  <img width="460" height="300" src="https://lh3.googleusercontent.com/Hkvqrfl6afdW-h5KmeNk60WXFqjVaE05us_ZRUWt-cTDCIp4Xje0vJgkvKKn2LHLM3EJGVJjEO5kUt50z0ps4JYWZcVHsXsnHqOtt26941MmxYLVjv9tyVOKt7a8hHsCKHC4WEvwV0c=w2400">
 </p>
